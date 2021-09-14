@@ -10,20 +10,23 @@
       "click": true,
       "webPlus": {
         "search_url": "http://www.9rmb.com/search?wd={kw}",
-        "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
+        "nav_url": "http://www.9rmb.com/",
         "web_name": "94神马",
         "navHtml": {
           "name": [
-            "电影",
+            "首页",
+             "热门电影",
             "电视剧",
+            "热门综艺",
             "动漫",
-            "综艺"
+            "音乐"
           ],
           "cate": [
             "1",
             "2",
-            "7",
-            "4"
+            "3",
+            "4",
+            "6"
           ],
           "page": "1"
         },
