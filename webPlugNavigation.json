@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "94神马(规则123)",
+      "name": "94神马(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "type": "webPlug",
       "ads": "",
@@ -10,23 +10,20 @@
       "click": true,
       "webPlus": {
         "search_url": "http://www.9rmb.com/search?wd={kw}",
-        "nav_url": "http://www.9rmb.com/",
-        "web_name": "94神马123",
+        "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
+        "web_name": "94神马",
         "navHtml": {
           "name": [
-            "首页",
-             "热门电影",
+            "电影",
             "电视剧",
-            "热门综艺",
             "动漫",
-            "音乐"
+            "综艺"
           ],
           "cate": [
             "1",
             "2",
-            "3",
-            "4",
-            "6"
+            "7",
+            "4"
           ],
           "page": "1"
         },
